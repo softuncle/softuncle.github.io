@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://softuncle.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-10T09:11:46.491Z</updated>
+    <updated>2020-11-10T09:14:13.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://softuncle.github.io"/>
     <link rel="self" href="https://softuncle.github.io/atom.xml"/>
@@ -67,7 +67,8 @@ BookSC：https://booksc.org/<br>
 阿德莱德大学电子文本收藏中心	http://ebooks.adelaide.edu.au/<br>
 超星电子书	http://www.chaoxing.com/<br>
 北大法宝	http://www.pkulaw.cn/<br>
-Open Library	https://openlibrary.org/</p>
+Open Library	https://openlibrary.org/<br>
+https://oapen.org/</p>
 <p><strong>图书网</strong><br>
 智奇搜书,最专业的电子书搜索引擎,提供电子书、纸质书、二手书的搜索服务,为读书爱好者打造最好的找书平台!<br>
 https://www.zqbook.top/</p>
@@ -205,12 +206,6 @@ BookYards	https://www.bookyards.com/en/welcome<br>
 bookparty	bookparty.cn<br>
 BookBookGo	http://bookbookgo.cc/<br>
 B–OK.xyz	http://b-ok.xyz/s/?q=Sapiens%3AA+brief+history+of+humankind&amp;yearFrom=&amp;yearTo=&amp;language=&amp;extension=&amp;t=0</p>
-<p>影印古籍资料	https://sou-yun.com/eBookIndex.aspx<br>
-殆知阁（古籍）	122.200.75.13/<br>
-国学网	http://www.guoxue.com/<br>
-国学数典	http://bbs.gxsd.com.cn/forum.php<br>
-古籍馆	https://www.gujiguan.com/<br>
-中国哲学书电子化计划	https://ctext.org/zhs</p>
 <p><strong>计算机</strong><br>
 码农之家（计算机电子书下载）：www.xz577.com<br>
 FreeComputerBooks	https://www.free-ebooks.net/<br>
@@ -700,7 +695,13 @@ paper阅读网站--通天塔，旁边带了翻译：https://tongtianta.site/pape
         <link href="https://softuncle.github.io/post/wen-shi-shu-ju-ku-da-quan-fen-lei-gui-na-ban/">
         </link>
         <updated>2020-11-10T06:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>https://mp.weixin.qq.com/s/T0ajuX4_hlHFpulnr465Mw</p>
+        <content type="html"><![CDATA[<p>https://mp.weixin.qq.com/s/T0ajuX4_hlHFpulnr465Mw<br>
+影印古籍资料	https://sou-yun.com/eBookIndex.aspx<br>
+殆知阁（古籍）	122.200.75.13/<br>
+国学网	http://www.guoxue.com/<br>
+国学数典	http://bbs.gxsd.com.cn/forum.php<br>
+古籍馆	https://www.gujiguan.com/<br>
+中国哲学书电子化计划	https://ctext.org/zhs</p>
 <p>01.“全国古籍普查登记基本数据库”<br>
 该数据库是全国古籍普查登记工作成果的具体体现。普查登记是“中华古籍保护计划”的首要任务，是全面了解全国古籍存藏情况，建立古籍总台账，开展全国古籍保护的基础性工作。全国古籍普查登记工作的中心任务是通过每部古籍的身份证——“古籍普查登记编号”和相关信息，建立国家古籍登记制度，加强各级政府对古籍的管理、保护和利用。<br>
 “全国古籍普查登记基本数据库”页面<br>
