@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://softuncle.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-10T06:00:17.484Z</updated>
+    <updated>2020-11-10T06:03:37.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://softuncle.github.io"/>
     <link rel="self" href="https://softuncle.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://softuncle.github.io/images/avatar.png</logo>
     <icon>https://softuncle.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux命令中reload和restart的区别]]></title>
+        <id>https://softuncle.github.io/post/linux-ming-ling-zhong-reload-he-restart-de-qu-bie/</id>
+        <link href="https://softuncle.github.io/post/linux-ming-ling-zhong-reload-he-restart-de-qu-bie/">
+        </link>
+        <updated>2020-11-10T06:01:22.000Z</updated>
+        <content type="html"><![CDATA[<p>会飞的鱼# 2019-03-03 10:35:14  9867  收藏 4<br>
+分类专栏： linux 运维 文章标签： linux centos linux基础命令<br>
+版权<br>
+相同点：二者都是使配置文件重新生效<br>
+不同点：<br>
+reload (重新加载)，reload会重新加载配置文件，服务不会中断。而且reload时会测试conf语法等，如果出错会rollback用上一次正确配置文件保持正常运行。也叫平滑重启，不会对已经连接的服务造成影响。<br>
+restart (重启)（先stop后start），会重启服务。这个重启会造成服务一瞬间的中断，如果配置文件出错会导致服务启动失败，那就是更长时间的服务中断了。<br>
+注意：修改配置文件前一定要先备份！为了保证线上服务高可用，推荐使用reload</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://softuncle.github.io/post/hello-gridea/</id>
