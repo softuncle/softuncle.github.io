@@ -2,14 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://softuncle.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-19T07:13:26.036Z</updated>
+    <updated>2021-01-27T06:52:28.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://softuncle.github.io"/>
     <link rel="self" href="https://softuncle.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://softuncle.github.io/images/avatar.png</logo>
     <icon>https://softuncle.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[  新中國古籍整理圖書總目錄        ]]></title>
+        <id>https://softuncle.github.io/post/xin-zhong-guo-gu-ji-zheng-li-tu-shu-zong-mu-lu/</id>
+        <link href="https://softuncle.github.io/post/xin-zhong-guo-gu-ji-zheng-li-tu-shu-zong-mu-lu/">
+        </link>
+        <updated>2021-01-27T06:48:25.000Z</updated>
+        <content type="html"><![CDATA[<p>#1 无标题</p>
+<p>#2 文学类</p>
+<p>#3 丛编</p>
+<p>诗经 楚辞 孔一标点 上古</p>
+<p>诗骚合壁  崔富章注释 浙古</p>
+<p>汉魏六朝百三家集选 吴汝纶评选 浙江人民</p>
+<p>汉魏六朝百三名家集 张溥 江古</p>
+<p>魏武帝魏文帝诗注 曹操曹丕撰 人民文学</p>
+<p>三曹集 张溥 宋校永校点 岳麓书社</p>
+<p>竹林七贤诗文全集译注 韩格平译 吉林文史</p>
+<p>何逊集注 阴铿集注  天古</p>
+<p>三谢诗 [宋]谢灵运谢惠连 [齐]谢朓  上古  /中国书店</p>
+<p>初唐四杰 岳麓 岳麓</p>
+<p>唐五十家诗集 上古</p>
+<p>唐四家诗集 中国书店</p>
+<p>卢照邻集 杨炯集 中华书局</p>
+<p>沈佺期 宋之问集校注 中华书局</p>
+<p>王昌龄集 高适集 岑参集 岳麓</p>
+<p>王右丞集 孟浩然集 岳麓</p>
+<p>辽东三家集 中国书店</p>
+<p>#3 总集</p>
+<p>诗经</p>
+<p>楚辞</p>
+<p>通代</p>
+<p>断代</p>
+<p>地方</p>
+<p>宗族</p>
+<p>尺牍</p>
+<p>#3 别集</p>
+<p>汉魏六朝</p>
+<p>隋唐五代</p>
+<p>宋</p>
+<p>辽金元</p>
+<p>明</p>
+<p>清</p>
+<p>近代</p>
+<p>诗文评</p>
+<p>词</p>
+<p>戏曲</p>
+<p>小说</p>
+<p>资料汇编</p>
+<p>#2 语言文字类</p>
+<p>#3 文字</p>
+<p>古文字</p>
+<p>说文</p>
+<p>字书</p>
+<p>音韵</p>
+<p>#3 训诂</p>
+<p>群雅</p>
+<p>字诂 杂字解诂</p>
+<p>方言</p>
+<p>语法</p>
+<p>资料汇编</p>
+<p>#2 文化艺术</p>
+<p>教育</p>
+<p>#3 书画</p>
+<p>总论</p>
+<p>法帖书谱</p>
+<p>画集画谱</p>
+<p>篆刻印谱</p>
+<p>书目题跋</p>
+<p>#3 音乐</p>
+<p>总论</p>
+<p>琴谱</p>
+<p>服饰器物</p>
+<p>饮食烹饪</p>
+<p>杂占命相</p>
+<p>博弈游艺</p>
+<p>资料汇编</p>
+<p>历史类</p>
+<p>地理类</p>
+<p>#2 哲学类</p>
+<p>易学</p>
+<p>#3 诸子</p>
+<p>丛编</p>
+<p>周秦诸子</p>
+<p>汉后诸家</p>
+<p>儒学</p>
+<p>理学</p>
+<p>学术史</p>
+<p>资料汇编</p>
+<p>#2 宗教类</p>
+<p>#3 佛教</p>
+<p>大藏</p>
+<p>经疏</p>
+<p>#4 撰述</p>
+<p>纂集</p>
+<p>传记</p>
+<p>书目辞典</p>
+<p>#3 道教</p>
+<p>道藏</p>
+<p>#4 撰述</p>
+<p>史传</p>
+<p>书目辞典</p>
+<p>其他宗教</p>
+<p>资料汇编</p>
+<p>#2 科学技术类</p>
+<p>#3 农学</p>
+<p>总论</p>
+<p>农艺</p>
+<p>园艺</p>
+<p>畜牧</p>
+<p>#3 医学</p>
+<p>丛编</p>
+<p>医经</p>
+<p>本草</p>
+<p>诊法</p>
+<p>方论</p>
+<p>针灸</p>
+<p>养生</p>
+<p>算学</p>
+<p>天文历法</p>
+<p>工艺</p>
+<p>资料汇编</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GENERAL资源+搜索图书]]></title>
         <id>https://softuncle.github.io/post/general-xue-xi-sou-suo/</id>
